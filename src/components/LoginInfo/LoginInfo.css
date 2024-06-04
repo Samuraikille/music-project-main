@@ -1,0 +1,11 @@
+
+.icon {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.social img {
+    margin-top: 6px;
+    margin-left: 0px;
+}

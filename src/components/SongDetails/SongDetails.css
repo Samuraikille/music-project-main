@@ -1,0 +1,11 @@
+.details {
+    position: fixed;
+    top: 10px;
+    left: 240px;
+    background-color: black;
+    border-radius: 20px;
+    width: 1280px;
+    height: 95%;
+    padding-left: -20px; 
+    overflow: auto;
+}

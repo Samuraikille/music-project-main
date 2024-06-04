@@ -1,0 +1,38 @@
+.profile{
+    position: fixed;
+    top: 10px;
+    left: 240px;
+    background-color: black;
+    border-radius: 20px;
+    width: 1280px;
+    height: 95%;
+    padding-left: -20px; 
+    overflow: auto;
+}
+.userinfo {
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;
+    gap: 25px;
+}
+.userinfo img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.username h2 {  
+    font-size: 37px;
+    font-weight: 800;
+}
+.username p{
+    margin-left: 50px;
+    font-size: 19px;
+}
+hr {
+    margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+    width: 100%;
+	border-top: 1px solid white;
+}
